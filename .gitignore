@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore Flask environment files
+.flaskenv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Git metadata
+.git/
