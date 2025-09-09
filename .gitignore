@@ -12,3 +12,6 @@ __pycache__/
 
 # Ignore Git metadata
 .git/
+
+# Ignore this script
+start_python_venv.sh
